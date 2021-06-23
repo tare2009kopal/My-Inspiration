@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: white;
+}
+h1{
+    font-size: 80px;
+}
+.images{
+    width: 650px;
+    height: 500px;
+    padding: 5px;
+    border-style: solid;
+    border-color: azure;
+    border-width: 8px;
+}
